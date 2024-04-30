@@ -4,9 +4,9 @@ import java.util.ArrayList;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-import ar.edu.unju.f.iejercicio1.model.Categoria;
-import ar.edu.unju.f.iejercicio1.model.OrigenFabricacion;
-import ar.edu.unju.f.iejercicio1.model.Producto;
+import ar.edu.unju.fi.ejercicio1.model.Categoria;
+import ar.edu.unju.fi.ejercicio1.model.OrigenFabricacion;
+import ar.edu.unju.fi.ejercicio1.model.Producto;
 
 public class Main {
     public static void main(String[] args) {
